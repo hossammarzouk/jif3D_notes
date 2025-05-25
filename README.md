@@ -1,5 +1,3 @@
-# jif3D_notes
-
 # JIF3D Joint Inversion Scripts Repository
 
 This repository contains contributed scripts, notes, and utilities for handling joint inversion workflows using the **JIF3D** framework developed by Max Moorkamp. The content is organized by contributor, with each subfolder named after the contributor and containing their corresponding scripts, configuration files, and usage notes.

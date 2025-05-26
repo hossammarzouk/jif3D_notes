@@ -12,7 +12,7 @@ jif3d-joint-inversion/
 ├── README.md                # This file
 ├── Max/                     # Max's original setup and examples
 ├── Hossam/                   # Scripts and notes from Hossam
-├── Flavio/                   # Scripts and notes from Hossam
+├── Perosn_X/                   # Scripts and notes from Perosn_X
 └── ...                      # Additional contributors
 ```
 
